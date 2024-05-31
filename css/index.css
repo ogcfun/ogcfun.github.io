@@ -7773,7 +7773,7 @@ input#pic-link {
 
 /* heo 加载动画头像 */
 .loading-img {
-  background: url(https://tuchuang.voooe.cn/images/2023/01/02/avatar.webp)
+  background: url(https://github.com/ogcfun/ImageHosting/blob/main/head.jpg?raw=true)
     no-repeat center center;
   background-size: cover;
 }
@@ -9478,7 +9478,7 @@ hr:before {
 }
 #waiBizhiBox::before {
   left: 34px;
-  content: "小歪高清壁纸";
+  content: "tuapi动漫壁纸";
 }
 #btstuBox::before {
   left: 34px;
