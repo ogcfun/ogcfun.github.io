@@ -7583,13 +7583,13 @@ button#go-up:hover #percent {
 
 /* 个人信息卡片背景图 */
 [data-theme="light"] #aside-content > .card-widget.card-info {
-  background-image: url(https://sourcebucket.s3.bitiful.net/img/springBg.png);
+  background-image: url(https://gallery.ogcfun.top/hexo/hexo-info-light.png);
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-size: 100%;
 }
 [data-theme="dark"] #aside-content > .card-widget.card-info {
-  background-image: url(https://sourcebucket.s3.bitiful.net/img/aurora.webp);
+  background-image: url(https://gallery.ogcfun.top/hexo/hexo-info-dark.webp);
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-size: 100%;

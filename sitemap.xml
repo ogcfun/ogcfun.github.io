@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://blog.ogcfun.top/personal/about/index.html</loc>
+    <loc>https://blog.ogcfun.top/site/time/index.html</loc>
     
     <lastmod>2024-11-06</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://blog.ogcfun.top/site/time/index.html</loc>
+    <loc>https://blog.ogcfun.top/personal/about/index.html</loc>
     
     <lastmod>2024-11-06</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://blog.ogcfun.top/life/music/index.html</loc>
+    <loc>https://blog.ogcfun.top/life/movies/index.html</loc>
     
     <lastmod>2024-11-06</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://blog.ogcfun.top/life/movies/index.html</loc>
+    <loc>https://blog.ogcfun.top/life/music/index.html</loc>
     
     <lastmod>2024-11-06</lastmod>
     
@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://blog.ogcfun.top/posts/54e8fddd.html</loc>
+    <loc>https://blog.ogcfun.top/posts/440b9145.html</loc>
     
     <lastmod>2024-11-06</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://blog.ogcfun.top/posts/440b9145.html</loc>
+    <loc>https://blog.ogcfun.top/posts/54e8fddd.html</loc>
     
     <lastmod>2024-11-06</lastmod>
     
@@ -184,7 +184,7 @@
 
   <url>
     <loc>https://blog.ogcfun.top/</loc>
-    <lastmod>2024-11-06</lastmod>
+    <lastmod>2024-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -192,35 +192,35 @@
   
   <url>
     <loc>https://blog.ogcfun.top/tags/Markdown/</loc>
-    <lastmod>2024-11-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ogcfun.top/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2024-11-06</lastmod>
+    <lastmod>2024-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ogcfun.top/tags/Nginx/</loc>
-    <lastmod>2024-11-06</lastmod>
+    <lastmod>2024-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ogcfun.top/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2024-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ogcfun.top/tags/Mysql/</loc>
-    <lastmod>2024-11-06</lastmod>
+    <lastmod>2024-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ogcfun.top/tags/ftp/</loc>
-    <lastmod>2024-11-06</lastmod>
+    <lastmod>2024-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -229,21 +229,21 @@
   
   <url>
     <loc>https://blog.ogcfun.top/categories/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2024-11-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ogcfun.top/categories/Web%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2024-11-06</lastmod>
+    <lastmod>2024-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ogcfun.top/categories/Linux/</loc>
-    <lastmod>2024-11-06</lastmod>
+    <lastmod>2024-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ogcfun.top/categories/Web%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2024-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

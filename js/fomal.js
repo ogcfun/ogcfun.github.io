@@ -2802,8 +2802,8 @@ function createtime() {
   let currentTimeHtml = "";
   (currentTimeHtml =
     hnum < 18 && hnum >= 9
-      ? `<img class='boardsign' src='https://raw.githubusercontent.com/ogcfun/ImageHosting/f41e20c1898fd0ab0843af504546f232bea0428e/hexo-OGC-%E4%B8%8A%E7%8F%AD%E6%91%B8%E9%B1%BC%E4%B8%AD.svg' title='什么时候能够实现财富自由呀~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`
-      : `<img class='boardsign' src='https://raw.githubusercontent.com/ogcfun/ImageHosting/f41e20c1898fd0ab0843af504546f232bea0428e/hexo-OGC-%E4%B8%8B%E7%8F%AD%E4%BC%91%E6%81%AF%E5%95%A6.svg' title='下班了就该开开心心地玩耍~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),
+      ? `<img class='boardsign' src='https://gallery.ogcfun.top/hexo/hexo-上班摸鱼中.svg' title='什么时候能够实现财富自由呀~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`
+      : `<img class='boardsign' src='https://gallery.ogcfun.top/hexo/hexo-下班休息啦.svg' title='下班了就该开开心心地玩耍~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),
     document.getElementById("workboard") &&
     (document.getElementById("workboard").innerHTML = currentTimeHtml);
 }
@@ -3172,10 +3172,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://github.com/ogcfun/ImageHosting/blob/main/hexo-bg1.jpg?raw=true);
-    --darkmode-bg:url(https://github.com/ogcfun/ImageHosting/blob/main/hexo-bg2.jpg?raw=true);
-    --mobileday-bg: url(https://github.com/ogcfun/ImageHosting/blob/main/hexo-bg3.jpg?raw=true);
-    --mobilenight-bg: url(https://github.com/ogcfun/ImageHosting/blob/main/hexo-bg4.png?raw=true);
+    --default-bg: url(https://gallery.ogcfun.top/hexo/hexo-light.png);
+    --darkmode-bg:url(https://gallery.ogcfun.top/hexo/hexo-dark.jpg);
+    --mobileday-bg: url(https://gallery.ogcfun.top/hexo/hexo-mobile-light.jpg);
+    --mobilenight-bg: url(https://gallery.ogcfun.top/hexo/hexo-mobile-dark.png);
   }`;
 }
 // 切换背景主函数
